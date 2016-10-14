@@ -1,0 +1,12 @@
+{
+    "name":"dummy test",
+    "url":"http://127.0.0.1:5000/test-operator-ses/sas/.dev.sg3/cli",
+    "sequence":
+    [
+        {"command":"led","Sub_cmd":"get"},
+        {"command":"fru","Sub_cmd":"get"},
+        {"command":"port","Sub_cmd":"get"}
+    ]
+
+
+}
